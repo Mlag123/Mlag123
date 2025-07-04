@@ -1,8 +1,9 @@
 ## Hi there 👋
-I java developer.
-22 years old.
-I from Russia. But I am Azerbaijani by nationality.
-I do backend development, and build custom recoveries for android devices. Sometimes I write games.
+- I java developer.
+- 22 years old. 
+- I from Russia. 
+- But I am Azerbaijani by nationality.
+- I do backend development, and build custom recoveries for android devices. Sometimes I write games.
 <!--
 **Mlag123/Mlag123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
